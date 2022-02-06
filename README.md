@@ -14,7 +14,7 @@ I should probably deploy it but you can go to `/about/1` to view the info for th
 
 1. Clone the repo
 ```shell
-git clone https://github.com/eilla1/react-pokedex.git && cd react-pokedex
+git clone https://github.com/exu3/react-pokedex.git && cd react-pokedex
 ```
 3. Install dependencies
 ```shell
